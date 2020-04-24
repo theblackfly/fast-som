@@ -5,6 +5,11 @@ The code is largely based on the original
 Sachin Joglekar's in his
 [blogpost](https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/).
 
+## Screenshot
+Here is the mandatory screenshot.
+
+![Screenshot 1](https://raw.githubusercontent.com/theblackfly/fast-som/master/screenshots/1.png)
+
 ## Why?
 
 Although I could find--at the time of this writing--another implementation of a
